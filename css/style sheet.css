@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ioio{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  color:whitesmoke;
+  background-color:crimson ;
+ transform: translate(100px ,-50px);
+}
+.h-t{
+font-size: 70px;
+color: rgb(69, 52, 85);
+transform: translate(250px ,190px);
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.p-t{
+  font-size: 25px;
+  color: white;
+  transform: translate(250px ,200px);
+}
+  .container-sm {
+ background-image: url(../image/essential-oils-flower-aromatherapy-perfume.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 580px;
+}  
+header{
+  z-index: 1000;
+}
+.list1 {
+  list-style: none;
+ display: flex;
+margin-left: 20px;
+}
+.list1 li{
+  width: 380px;
+  height: 500px;
+  border: 2px solid gray;
+  margin:20px 50px;
+}
+.aa{
+  transform: translate(-1440px ,520px);
+}
+.am{
+  transform: translate(-2880px ,1050px);
+}
+.zx{
+  transform: translate(-3880px ,1600px);
+}
+#div1{
+  width: 550px;
+  height: 200px;
+  border: 2px solid gray;
+  transform: translate(500px,1600px);
+}
+
+#btnPrice{
+  width: 300px;
+  height: 60px;
+  font-size: 40px;
+  background-color: rgb(158, 158, 221);
+  transform: translate(620px,1620px);
+} 
+ .div2 {
+  width: 300px;
+  height: 100px;
+  font-size: 70px;
+  background-color: crimson;
+  transform: translate(600px,1680px);
+} 
